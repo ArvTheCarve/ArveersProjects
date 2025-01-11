@@ -2,4 +2,5 @@
 1. Calculator to do basic operations (c++)
 2. Number Guessing Game (c++)
 3. Rock Paper Scissors (python)
-4. Captcha Generator (HTML)
+4. Color Picker (HTML, CSS, & JS)
+5. Captcha Generator (HTML)
